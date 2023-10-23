@@ -30,6 +30,15 @@ header {
   text-align: center;
   padding: 20px 0;
 }
+.active a {
+  background-color: #3498DB;
+  text-decoration: underline; 
+  font-weight: bold; 
+  border-radius: 5px; 
+  padding: 5px 10px; 
+  color: #ECF0F1; 
+}
+
 
 body {
   background-color: #2C3E50;
